@@ -1,35 +1,35 @@
-﻿Borough;Neighbourood
-1;Centro 
-1;Crocetta
-2;Santa Rita
-2;Mirafiori Nord 
-2;Mirafiori Sud
-3;San Paolo
-3;Cenisia 
-3;Pozzo Strada 
-3;Cit Turin 
-3;Borgata Lesna
-4;San Donato
-4;Campidoglio
-4;Parella
-5;Borgo Vittoria
-5;Madonna di Campagna
-5;Lucento 
-5;Vallette
-6;Barriera di Milano
-6;Regio Parco
-6;Barca
-6;Bertolla
-6;Falchera
-6;Rebaudengo 
-6;Villaretto
-7;Aurora
-7;Vanchiglia
-7;Sassi
-7;Madonna del Pilone
-8;San Salvario
-8;Cavoretto
-8;Borgo Po
-8;Nizza Millefonti
-8;Lingotto
-8;Filadelfia
+﻿Borough;Neighbourood;Latitude;Longitude
+1;Centro;45.0688914;7.6823806
+1;Crocetta;45.0579245;7.6649673
+2;Santa Rita;45.0456578;7.6455291
+2;Mirafiori Nord;45.0403513;7.628422
+2;Mirafiori Sud;45.0158062;7.6361011
+3;San Paolo;45.0713215;7.6125089
+3;Cenisia;45.0697067;7.6498785
+3;Pozzo Strada;45.0749418;7.6291804
+3;Cit Turin;45.0734308;7.6615327
+3;Borgata Lesna;45.062501;7.6200512
+4;San Donato;45.0823608;7.6617867
+4;Campidoglio;45.0793485;7.6529994
+4;Parella;45.430657;7.793217
+5;Borgo Vittoria;45.0973;7.6780633
+5;Madonna di Campagna;45.1038648;7.6634925
+5;Lucento;45.098587;7.6480041
+5;Vallette;45.1043837;7.6322966
+6;Barriera di Milano;45.0923875;7.6953196
+6;Regio Parco;45.0930538;7.7149486
+6;Barca;45.101778;7.7278795
+6;Bertolla;45.0992234;7.7478559
+6;Falchera;45.1283575;7.7093621
+6;Rebaudengo;45.1042567;7.6993038
+6;Villaretto;45.1313067;7.6850598
+7;Aurora;45.0825745;7.6860091
+7;Vanchiglia;45.0704376;7.6984692
+7;Sassi;45.079322;7.7323063
+7;Madonna del Pilone;45.068287;7.7201896
+8;San Salvario;45.0549503;7.6801517
+8;Cavoretto;44.8662114;7.2891873
+8;Borgo Po;45.0606675;7.6991276
+8;Nizza Millefonti;45.030171;7.6678494
+8;Lingotto;45.0265963;7.6568231
+8;Filadelfia;45.0370503;7.6570621
